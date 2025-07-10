@@ -1,36 +1,32 @@
-## Olá, me chamo Taís. 👋
-👩‍💻 Sou estudante de Sistemas de Informação.
+<h1 align="center">Olá, me chamo Taís. 👋</h1>
 
-Possuo experiência com suporte ao usuário e manutenção de computadores, no momento estou focando meus estudos na área de desenvolvimento:
+<p align="center">
+  <strong>Desenvolvedora Backend</strong><br>
+  Java | Spring Boot | Python | AWS | Terraform | Docker
+</p>
 
-## Estou estudando as tecnologias:
+---
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="45px" width="45px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="40px" width="40px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="40px" width="40px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="45px" width="45px"/>
+🎯 **Sobre mim**
 
+Possuo experiência com suporte ao usuário e manutenção de computadores, no momento estou focando meus estudos na área de desenvolvimento backend.
+Tenho experiência prática com **Java (Spring Boot)** e **Python**, atuando na criação de **microsserviços**, **APIs RESTful**, **mensageria com RabbitMQ**, e soluções **serverless com AWS (Lambda, DynamoDB, API Gateway)**, tudo isso com infraestrutura gerenciada via **Terraform**.
 
+🧠 Estou sempre em busca de aprender mais.
 
+---
 
+🛠️ **Tecnologias que trabalho:**
 
-### Contato
+- 💻 **Linguagens**: Java, Python
+- ⚙️ **Frameworks**: Spring Boot
+- ☁️ **Cloud & DevOps**: AWS Lambda, DynamoDB, API Gateway, Terraform, Docker
+- 📨 **Mensageria**: RabbitMQ
+- 🗃️ **Banco de Dados**: MySQL, DynamoDB
+- 🛠️ **Ferramentas**: Git, GitHub, Swagger, Postman
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="20px" width="20px" />](https://www.linkedin.com/in/taismdeandrade/)
+---
 
-## 
-<a href="https://github.com/taismdeandrade">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taismdeandrade&layout=compact&langs_count=7&theme=dracula"/>
-          
- 
-<!--
-**taisdeandrade/taisdeandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 **Contato**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 [LinkedIn](https://www.linkedin.com/in/taismdeandrade/)
